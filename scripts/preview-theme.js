@@ -17,8 +17,8 @@ const themeContribGuidelines = `
 
   \r> We are currently only accepting color combinations from any vscode theme or which has good color combination to minimize bloating the themes collection.
 
-  \r> Also note that if this theme is exclusively for your personal use then instead of adding it to our theme collection you can use card [customization options](https://github.com/anuraghazra/github-readme-stats#customization) 
-  \r> Read our [contribution guidelines](https://github.com/anuraghazra/github-readme-stats/blob/master/CONTRIBUTING.md) for more info
+  \r> Also note that if this theme is exclusively for your personal use then instead of adding it to our theme collection you can use card [customization options](https://github.com/swordwielder/github-readme-stats#customization) 
+  \r> Read our [contribution guidelines](https://github.com/swordwielder/github-readme-stats/blob/master/CONTRIBUTING.md) for more info
 `;
 
 async function run() {
@@ -33,7 +33,7 @@ async function run() {
     }
 
     let res = await octokit.pulls.get({
-      owner: "anuraghazra",
+      owner: "swordwielder",
       repo: "github-readme-stats",
       pull_number: pullRequestId,
       mediaType: {
@@ -53,7 +53,7 @@ async function run() {
 
     if (!colors) {
       await octokit.issues.createComment({
-        owner: "anuraghazra",
+        owner: "swordwielder",
         repo: "github-readme-stats",
         body: `
         \rTheme preview (bot)
@@ -74,10 +74,10 @@ async function run() {
     const iconColor = colors[1];
     const textColor = colors[2];
     const bgColor = colors[3];
-    const url = `https://github-readme-stats.vercel.app/api?username=anuraghazra&title_color=${titleColor}&icon_color=${iconColor}&text_color=${textColor}&bg_color=${bgColor}&show_icons=true`;
+    const url = `https://github-readme-stats.vercel.app/api?username=swordwielder&title_color=${titleColor}&icon_color=${iconColor}&text_color=${textColor}&bg_color=${bgColor}&show_icons=true`;
 
     await octokit.issues.createComment({
-      owner: "anuraghazra",
+      owner: "swordwielder",
       repo: "github-readme-stats",
       body: `
       \rTheme preview (bot)  

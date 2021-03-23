@@ -1,21 +1,21 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/swordwielder/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">¡Obtén tus estadísticas de GitHub generadas dinámicamente en tu README!</p>
 </p>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/swordwielder/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/swordwielder/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/swordwielder/github-readme-stats">
+      <img src="https://codecov.io/gh/swordwielder/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/swordwielder/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/swordwielder/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/swordwielder/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/swordwielder/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -30,9 +30,9 @@
   <p align="center">
     <a href="#ejemplo">Ver un ejemplo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Reportar un bug</a>
+    <a href="https://github.com/swordwielder/github-readme-stats/issues/new/choose">Reportar un bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Solicitar una mejora</a>
+    <a href="https://github.com/swordwielder/github-readme-stats/issues/new/choose">Solicitar una mejora</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -58,7 +58,7 @@
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
 </p>
-<p align="center">¿Te gusta este proyecto? ¡Por favor, considera <a href="https://www.paypal.me/anuraghazra">donar</a> para ayudar a mejorarlo!
+<p align="center">¿Te gusta este proyecto? ¡Por favor, considera <a href="https://www.paypal.me/swordwielder">donar</a> para ayudar a mejorarlo!
 
 # Características
 
@@ -77,7 +77,7 @@ Copia y pega esto en el contenido de tu README.md y listo. ¡Simple!
 Cambia el valor de `?username=` al nombre de tu usuario de GitHub.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 _Nota: Los rangos disponibles son S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%) y B+ (todos). Los valores se calculan utilizando la [función de distribución acumulada](https://es.wikipedia.org/wiki/Funci%C3%B3n_de_distribuci%C3%B3n) utilizando commits, contribuciones, issues, estrellas, pull request, seguidores y repositorios propios. Puedes investigar más sobre la implementación en [src/calculateRank.js](../src/calculateRank.js)._
@@ -89,7 +89,7 @@ Para ocultar alguna estadística específica, puedes utilizar el parámetro `?hi
 > Opciones: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=contribs,prs)
 ```
 
 ### Agregar contribuciones privadas al total de commits contados
@@ -101,7 +101,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 > Opciones: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&count_private=true)
 ```
 
 ### Mostrar íconos
@@ -109,7 +109,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 Para habilitar los íconos, puedes utilizar `show_icons=true` como parámetro, de esta manera:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true)
 ```
 
 ### Temas
@@ -119,14 +119,14 @@ Puedes personalizar el aspecto de la tarjeta sin realizar ninguna [personalizaci
 Utiliza el parámetro `?theme=THEME_NAME`, de esta manera:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true&theme=radical)
 ```
 
 #### Todos los temas incorporados
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/swordwielder/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 Puedes ver una vista previa de [todos los temas disponibles](../themes/README.md) o ver el [archivo de configuración](../themes/index.js) del tema y también **puedes contribuir con nuevos temas** si lo deseas :D
 
@@ -206,19 +206,19 @@ Los pines adicionales de GitHub le permiten fijar más de 6 repositorios en su p
 
 Copia y pegua este código en tu Readme y cambia los enlaces.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=swordwielder&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats)](https://github.com/swordwielder/github-readme-stats)
 
 Utiliza la variable [show_owner](#customización) para incluir el nombre de usuario del propietario del repositorio.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats&show_owner=true)](https://github.com/swordwielder/github-readme-stats)
 
 # Tarjeta de Lenguajes Principales
 
@@ -230,10 +230,10 @@ _NOTA: los lenguajes principales no indican mi nivel de habilidad o algo así, e
 
 Copia y pegua este código en tu Readme y cambia los enlaces.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=swordwielder`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Excluir repositorios individualmente
@@ -241,7 +241,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&exclude_repo=github-readme-stats,swordwielder.github.io)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Ocultar lenguajes individualmente
@@ -249,7 +249,7 @@ Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios 
 Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&hide=javascript,html)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Mostrar más lenguajes
@@ -257,7 +257,7 @@ Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes ind
 Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el número de lenguajes mostrados en la tarjeta. Los valores admitidos son los números enteros entre 1 y 10 (inclusive), y el valor por defecto es 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&langs_count=8)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Diseño Compacto de Tarjeta de Lenguaje
@@ -265,34 +265,34 @@ Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el núm
 Puedes usar la opción `& layout = compact` para cambiar el diseño de la tarjeta.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 
 - Diseño compacto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 
 # Estadísticas de la semana de Wakatime
 
 cambia el valor del parámetro `?username=` a tu username en [Wakatime](https://wakatime.com).
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/swordwielder/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/swordwielder/github-readme-stats)
 
 - Diseño compacto
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 
 ---
 
@@ -300,49 +300,49 @@ cambia el valor del parámetro `?username=` a tu username en [Wakatime](https://
 
 - Por defecto
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder)
 
 - Ocultando ciertas estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=contribs,issues)
 
 - Mostrando íconos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=issues&show_icons=true)
 
 - Incluyendo todos los commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&include_all_commits=true)
 
 - Temas
 
 Escoja cualquiera de los [temas por defecto](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizando Tarjeta de Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=swordwielder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Estableciendo Idioma de la tarjeta
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=swordwielder&locale=es)
 
 - Personalizando Tarjeta de Repo
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=swordwielder&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Lenguajes Top
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 
 - Tarjeta de Wakatime
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/swordwielder/github-readme-stats)
 
 ---
 
@@ -351,11 +351,11 @@ Escoja cualquiera de los [temas por defecto](#themes)
 Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para hacerlo, puede usar este enfoque:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/swordwielder/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/swordwielder/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=convoychat" />
 </a>
 ```
 
@@ -365,9 +365,9 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
 
-NOTA: Debido a [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
+NOTA: Debido a [#58](https://github.com/swordwielder/github-readme-stats/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/swordwielder/github-readme-stats)
 
 <details>
  <summary>Guía para comenzar en Vercel</summary>
@@ -398,7 +398,7 @@ No obstante, si estás utilizando este proyecto y estás feliz con él o simplem
 
 - Darme créditos cuando estés utilizando github-readme-stats en tu README, añadiendo un link a este repositorio :D
 - Dándole una estrella y compartiendo el proyecto :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
+- [![paypal.me/swordwielder](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/swordwielder) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
 
 ¡Gracias! :heart:
 

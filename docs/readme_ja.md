@@ -1,20 +1,20 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/swordwielder/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">あなたの README に自動生成された GitHub の統計情報を載せましょう！</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/swordwielder/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/swordwielder/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/swordwielder/github-readme-stats">
+      <img src="https://codecov.io/gh/swordwielder/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/swordwielder/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/swordwielder/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/swordwielder/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/swordwielder/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/swordwielder/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/swordwielder/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -55,7 +55,7 @@
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
 </p>
-<p align="center">このプロジェクトを気に入っていただけましたか？<br>もしよろしければ、プロジェクトのさらなる改善のために<a href="https://www.paypal.me/anuraghazra">寄付</a>を検討して頂けると嬉しいです！</p>
+<p align="center">このプロジェクトを気に入っていただけましたか？<br>もしよろしければ、プロジェクトのさらなる改善のために<a href="https://www.paypal.me/swordwielder">寄付</a>を検討して頂けると嬉しいです！</p>
 
 # 主な機能
 
@@ -74,7 +74,7 @@
 `?username=` の値は、あなたの GitHub アカウントのユーザー名に変更してください。
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 _Note: カードに表示されるランクはユーザの統計情報に基づいて計算されています。詳しくは、[src/calculateRank.js](../src/calculateRank.js)をご覧ください。_
@@ -86,7 +86,7 @@ _Note: カードに表示されるランクはユーザの統計情報に基づ�
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=contribs,prs)
 ```
 
 ### プライベートリポジトリへのコミットをカウントする
@@ -98,7 +98,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&count_private=true)
 ```
 
 ### アイコンを表示する
@@ -106,7 +106,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 クエリパラメータ `?show_icons=true` を使用することで、アイコンの表示が有効になります。
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true)
 ```
 
 ### テーマの変更
@@ -116,14 +116,14 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 `?theme=THEME_NAME` は以下のように使います。
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true&theme=radical)
 ```
 
 #### 内蔵テーマの一覧
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/swordwielder/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 その他の使用可能なテーマの[プレビュー](../themes/README.md)や[設定ファイル](../themes/index.js)もご覧ください。もしよろしければ、**新しいテーマを投稿してみてください** :smile:
 
@@ -194,19 +194,19 @@ GitHub extra pins を使うと、GitHub の readme プロフィールを使っ�
 
 以下のコードをあなたの readme にコピー & ペーストし、リンクを変更してください。
 
-エンドポイント: `api/pin?username=anuraghazra&repo=github-readme-stats`
+エンドポイント: `api/pin?username=swordwielder&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### デモ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats)](https://github.com/swordwielder/github-readme-stats)
 
 リポジトリのオーナーのユーザー名を含める場合は、show_owner 変数を使用します。
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats&show_owner=true)](https://github.com/swordwielder/github-readme-stats)
 
 # Top Languages Card
 
@@ -218,10 +218,10 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 以下のコードをあなたの readme にコピー & ペーストし、リンクを変更してください。
 
-エンドポイント: `api/top-langs?username=anuraghazra`
+エンドポイント: `api/top-langs?username=swordwielder`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### 特定の言語を隠す
@@ -229,7 +229,7 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `?hide=language1,language2` 使用することで、特定の言語を非表示にすることができます。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&hide=javascript,html)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### レイアウトをコンパクトにする
@@ -237,16 +237,16 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `&layout=compact` を使用することで、カードのデザインを変更することができます。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### デモ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 
 - Compact layout の場合
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 
 ---
 
@@ -254,41 +254,41 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 - デフォルト
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder)
 
 - 特定の統計情報を隠す
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=contribs,issues)
 
 - アイコンを表示する
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=issues&show_icons=true)
 
 - コミット数の総数をカウントする
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&include_all_commits=true)
 
 - テーマの変更
 
 任意の[テーマ](#themes)を選択できます。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&show_icons=true&theme=radical)
 
 - グラデーション
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - stats card のカスタマイズ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=swordwielder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - repo card のカスタマイズ
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=swordwielder&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 
 ---
 
@@ -297,11 +297,11 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 通常、画像を並べてレイアウトすることはできません。画像を並べるには、以下のような方法があります。
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/swordwielder/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/swordwielder/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swordwielder&repo=convoychat" />
 </a>
 ```
 
@@ -311,9 +311,9 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 GitHub API は 1 時間あたり 5k リクエストしか受け付けていないので、私の `https://github-readme-stats.vercel.app/api` がレートリミッターを超えてしまう可能性があります。自分の Vercel サーバーでホストしているのであれば、何も心配する必要はありません。デプロイボタンをクリックして始めましょう！
 
-NOTE: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) 以降は 5k 以上のリクエストに対応できるようになり、ダウンタイムの問題もなくなりました :smile:
+NOTE: [#58](https://github.com/swordwielder/github-readme-stats/pull/58) 以降は 5k 以上のリクエストに対応できるようになり、ダウンタイムの問題もなくなりました :smile:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/swordwielder/github-readme-stats)
 
 <details>
  <summary>Vercelの設定ガイド</summary>
@@ -345,7 +345,7 @@ NOTE: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) 以降�
 
 - あなたの readme で github-readme-stats を使用して適切なクレジットを付与し、それにリンクします :smile:
 - このプロジェクトにスターを贈り、他の人達にもシェアしてください :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal を介して 1 回限りの寄付を行うことができます。私はおそらく ~~コーヒー~~ お茶を買うでしょう。 :tea:
+- [![paypal.me/swordwielder](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/swordwielder) - PayPal を介して 1 回限りの寄付を行うことができます。私はおそらく ~~コーヒー~~ お茶を買うでしょう。 :tea:
 
 Thanks! :heart:
 
