@@ -237,7 +237,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
 ```
 
 ### Exclude individual repositories
@@ -342,7 +342,7 @@ Choose from any of the [default themes](#themes)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/anuraghazra/github-readme-stats)
 
 - Wakatime card
 
@@ -355,7 +355,7 @@ Choose from any of the [default themes](#themes)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swordwielder/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
